@@ -1,1 +1,3 @@
-this is some smaple text
+this is some smaple text.
+
+And this is some more text.
